@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>images/phone_up.png</file>
+        <file>images/phone_down.png</file>
+        <file>images/state_free.png</file>
+        <file>images/state_answer.png</file>
+        <file>images/state_preanswer.png</file>
+        <file>images/state_release.png</file>
+        <file>images/icon.png</file>
+        <file>images/microphone.png</file>
+        <file>images/connection.png</file>
+        <file>images/apply.png</file>
+        <file>images/gather.png</file>
+    </qresource>
+</RCC>
